@@ -1,0 +1,42 @@
+body {
+}
+
+.message {
+	border-style: solid;
+	padding: 0;
+	margin-bottom: 3px;
+	margin-top: 1px;
+}
+
+.name {
+
+}
+
+.messages {
+	list-style-type:none;
+	width:95%;
+	padding: 0;
+	margin: 0;
+}
+
+#messageForm {
+}
+
+#messageBox {
+	margin: 0;
+	padding-left: 1em;
+	border-style: solid;
+	border-width: 5px;
+	height: 150px;
+	width:20%;
+	overflow: auto;
+}
+
+tab { 
+	padding-left: 4em;
+	font-size: 12px;
+}
+
+a {
+  color: #00B7FF;
+}
